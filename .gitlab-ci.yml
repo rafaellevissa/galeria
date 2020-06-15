@@ -25,9 +25,10 @@ push:
 
 test:
   stage: test
-  image: node
+  image: python
   script:
-    - npm install
+    - python
+    - print("teste")
  
 build:
   image: docker

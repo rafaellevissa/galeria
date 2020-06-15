@@ -15,6 +15,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
     - Formato
     - thumbnail
 
+## [0.2.0] - 2020-06-15
+
+### Added
+
+- Devops com Gitlab CI/CD e Docker
+- to run: 
+
+`docker build -t galeria .`
+
+`docker run -it --rm -p 5000:5000 galeria`
 
 ## [0.1.0] - 2020-06-15
 

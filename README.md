@@ -6,10 +6,9 @@ Back-end da Galeria de imagens
 Desenvolver uma aplicação para cadastro e galeria de imagens. Esse projeto é apenas o Back-end, que expõe uma API REST.
 
 **Autores**
-| 
-Nome                      | GitHub                                   | Likedin                                                 | E-mail                    |
-| -------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ---------------------------------------- | ------------------------------------------------------- | ------------------------- |
-| Rafael Levi Batista Costa | [Rafael Levi](https://github.com/rafaellevissa) | [Linkedin](https://www.linkedin.com/in/rafaellevissa/) | rafaellevissa@gmail.com |
+Foto | Nome | GitHub | Likedin | E-mail
+---- | ---- | ------ | ------- | ------
+![levi](./doc/levi.jpg)  | Rafael Levi Batista Costa | [Rafael Levi](https://github.com/rafaellevissa) | [Linkedin](https://www.linkedin.com/in/rafaellevissa/) | rafaellevissa@gmail.com
 
 **Tecnologias**
 
@@ -25,6 +24,8 @@ Nome                      | GitHub                                   | Likedin  
 ou
 
 `export FLASK_ENV=production`
+
+e
 
 `flask run`
 
