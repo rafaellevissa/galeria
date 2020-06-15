@@ -1,8 +1,8 @@
 stages:
-    - pushToGithub
-#    - test
-    - build
-    - delpoyToAws
+  - pushToGithub
+# - test
+  - build
+  - delpoyToAws
   
   push:
     stage: pushToGithub
