@@ -27,8 +27,7 @@ test:
   stage: test
   image: python
   script:
-    - python
-    - print("teste")
+    - echo "teste"
  
 build:
   image: docker
