@@ -20,11 +20,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - Devops com Gitlab CI/CD e Docker
-- to run: 
+- to run powered Docker: 
 
 `docker build -t galeria .`
 
 `docker run -it --rm -p 5000:5000 galeria`
+
+- to run powered docker-compose:
+
+`docker-compose up`
+
+
 
 ## [0.1.0] - 2020-06-15
 
