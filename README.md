@@ -3,12 +3,12 @@ Back-end da Galeria de imagens
 
 **Objetivo**
 
-Desenvolver uma aplicação para cadastro e galeria de imagens. Esse projeto é apenas o Back-end, que expõe uma API REST.
+Desenvolver uma aplicação para cadastro e galeria de imagens. Esse projeto é apenas o Back-end, que expõe uma API REST. Front-end: https://github.com/rafaellevissa/galeria-front 
 
 **Autores**
 Foto | Nome | GitHub | Likedin | E-mail
 ---- | ---- | ------ | ------- | ------
-![levi](./doc/levi.jpg)  | Rafael Levi Batista Costa | [Rafael Levi](https://github.com/rafaellevissa) | [Linkedin](https://www.linkedin.com/in/rafaellevissa/) | rafaellevissa@gmail.com
+<img src="./doc/levi.jpg" width="100px">  | Rafael Levi Batista Costa | [Rafael Levi](https://github.com/rafaellevissa) | [Linkedin](https://www.linkedin.com/in/rafaellevissa/) | rafaellevissa@gmail.com
 
 **Tecnologias**
 
@@ -17,7 +17,11 @@ Foto | Nome | GitHub | Likedin | E-mail
 - Banco Mysql (AWS)
 - Armazenamento (AWS)
 
-**Comands***
+**Comands**
+
+`sudo apt-get install python3-pip python-dev libmysqlclient-dev`
+
+`pip3 install -r requirements.txt`
 
 `export FLASK_ENV=development`
 
